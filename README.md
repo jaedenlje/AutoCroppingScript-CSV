@@ -17,6 +17,7 @@ Install [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/?
 
 2. Create a new Python file:
 
+![Screenshot (4)](https://github.com/user-attachments/assets/7344ef74-ca51-4d8e-be36-91933edf2906)
 
 3. Open settings and select Python intepreter:
 
