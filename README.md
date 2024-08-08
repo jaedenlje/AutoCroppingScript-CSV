@@ -13,7 +13,7 @@ Install [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/?
 
 1. Create a new project:
 
-![Screenshot (3)](https://github.com/user-attachments/assets/a64555b9-9d67-4ced-8931-26a19614ae6d)
+![Screenshot (5)](https://github.com/user-attachments/assets/505ebcc0-a23f-41de-8e75-bd82759452ce)
 
 2. Create a new Python file:
 
