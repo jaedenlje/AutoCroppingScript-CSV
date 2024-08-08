@@ -14,7 +14,7 @@ Install [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/?
     1. Start a new PyCharm project.
     2. Create a new Python file.
     3. Open settings 
-![python1](https://github.com/user-attachments/assets/f3fe40cd-8aa5-47e7-a52b-5bfbff3a1177)
+    ![python1](https://github.com/user-attachments/assets/f3fe40cd-8aa5-47e7-a52b-5bfbff3a1177)
 ## Usage
 To use the script, you need to provide the path to the CSV file, the folder containing images, and the output folder where the cropped images will be saved.
 
