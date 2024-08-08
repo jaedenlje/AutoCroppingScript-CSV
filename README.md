@@ -16,7 +16,7 @@ Install [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/?
 ![Screenshot (5)](https://github.com/user-attachments/assets/505ebcc0-a23f-41de-8e75-bd82759452ce)
 
 
-2. Open settings and select "Python Intepreter" under your project. Click on the plus sign and search for "opencv-python" to install the OpenCV package:
+2. Open settings and select "Python Intepreter" under your project. Click on the '+' sign and search for "opencv-python" to install the OpenCV package:
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/1bc46e42-2b96-404d-8a32-f3347c3db87d)
 ![Screenshot (6)](https://github.com/user-attachments/assets/a913794f-e252-47f4-84ee-5599aa880fb0)
