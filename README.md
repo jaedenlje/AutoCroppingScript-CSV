@@ -11,9 +11,9 @@ This project provides a script to process a CSV file containing image annotation
 ## Installation
 Install [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/?section=windows)
 
-    1. Start a new PyCharm project.
-    2. Create a new Python file.
-    3. Open settings 
+Create a new PyCharm project:
+![Screenshot (3)](https://github.com/user-attachments/assets/a64555b9-9d67-4ced-8931-26a19614ae6d)
+
 ![Screenshot (2)](https://github.com/user-attachments/assets/1bc46e42-2b96-404d-8a32-f3347c3db87d)
 
 ## Usage
